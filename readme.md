@@ -9,7 +9,7 @@
 [![Join the chat at https://gitter.im/magefree/mage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/magefree/mage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 XMage allows you to play Magic against one or more online players or computer opponents. 
-It includes full rules enforcement for over **25 000** unique cards and more than 65 000 reprints from different editions. 
+It includes full rules enforcement for over **25 000** unique cards and more than 66 000 reprints from different editions. 
 You can also find custom sets like Star Wars. All regular sets have nearly all implemented cards.
 
 It supports single matches and tournaments with dozens of game modes like duel, multiplayer, standard, modern, commander, 
