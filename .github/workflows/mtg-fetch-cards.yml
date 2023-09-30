@@ -1,9 +1,11 @@
 name: Mtg Card Fetch Bot
 
 on:
+  issues:
+    types: [opened]
   issue_comment:
     types: [created]
-  issues:
+  pull_request_target:
     types: [opened]
   pull_request_review:
     types: [submitted]
@@ -18,4 +20,4 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-      - uses: ldeluigi/mtg-fetch-action@v1
+      - uses: JayDi85/mtg-fetch-action@master
